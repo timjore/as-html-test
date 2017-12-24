@@ -4,13 +4,39 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://aurastrategic.com/feed.xml" />
 <link rel="alternate" type="text/html" href="http://aurastrategic.com" />
-<updated>2017-12-24T08:11:56-05:00</updated>
+<updated>2017-12-24T14:36:28-05:00</updated>
 <id>http://aurastrategic.com/</id>
 <author>
   <name>Tim Jore</name>
   <uri>http://aurastrategic.com/</uri>
   <email>timjore91@gmail.com</email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[On Writing Less, More]]></title>
+  <link rel="alternate" type="text/html" href="http://aurastrategic.com/blog/on-writing-less-more/" />
+  <id>http://aurastrategic.com/blog/on-writing-less-more</id>
+  <published>2017-12-24T13:26:17-05:00</published>
+  <updated>2017-12-24T13:26:17-05:00</updated>
+  <author>
+    <name>Tim Jore</name>
+    <uri>http://aurastrategic.com</uri>
+    <email>timjore91@gmail.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;The degree of friction in a given process has a significant impact on how long it can be sustained. Processes that are complicated will, understandably, consume more resources to sustain over time. This is particularly true for activities that are intrinsically rife with friction—like writing.&lt;/p&gt;
+
+&lt;p&gt;For some of us, writing is time-consuming and challenging. So it follows that, in order to sustain writing over time, the process of writing (and publishing) should be optimized. Even a small reduction of friction in the writing process may yield significant benefit in terms of endurance and ability to develop and maintain good writing habits.&lt;/p&gt;
+
+&lt;p&gt;This writing project (the Aura Strategic website) has languished this past year for a number of reasons, including the complicated publishing process. I realized that I needed to be more consistent, which requires &lt;strong&gt;writing less content, more frequently&lt;/strong&gt;. For that to happen, I intend to start practicing “free writing” (writing rapidly on a set topic without concern for format, style, or even quality of the content) and refining some of those topics into posts on this site.&lt;/p&gt;
+
+&lt;p&gt;I also realized that I needed to squeeze out as much of the overhead as possible in the publishing process. To that end, I have switched from publishing via Amazon S3 buckets and have started using &lt;strong&gt;&lt;a href=&quot;https://github.com&quot;&gt;GitHub&lt;/a&gt;&lt;/strong&gt; (to store the Jekyll-rendered static website) and &lt;strong&gt;&lt;a href=&quot;https://netlify.com&quot;&gt;Netlify&lt;/a&gt;&lt;/strong&gt; to serve the site.&lt;/p&gt;
+
+
+    &lt;p&gt;&lt;a href=&quot;http://aurastrategic.com/blog/on-writing-less-more/&quot;&gt;On Writing Less, More&lt;/a&gt; was originally published by Tim Jore at &lt;a href=&quot;http://aurastrategic.com&quot;&gt;Aura Strategic&lt;/a&gt; on December 24, 2017.&lt;/p&gt;
+  </content>
+</entry>
 
 
 <entry>
@@ -26,7 +52,7 @@
   </author>
   <content type="html">
     &lt;blockquote&gt;
-  &lt;p&gt;What matters is not the accomplishments you achieve, but &lt;strong&gt;the person you become&lt;/strong&gt;. —Dallas Willard &lt;a href=&quot;#ortberg_soul_2014&quot;&gt;(Ortberg, 2014)&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;What matters is not the accomplishments you achieve, but &lt;strong&gt;the person you become&lt;/strong&gt;. —Dallas Willard Dallas Willard &lt;a href=&quot;#ortberg_soul_2014&quot;&gt;(Ortberg, 2014)&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;hr /&gt;
@@ -57,10 +83,6 @@
 &lt;blockquote&gt;
   &lt;p&gt;“In dialogue people become observers of their own thinking. …If collective thinking is an ongoing stream, ‘thoughts’ are like leaves floating on the surface that wash up on the banks. We gather in the leaves [and] misperceive [them] as our own, because we fail to see the stream of collective thinking from which they arise.”&lt;/p&gt;
 &lt;/blockquote&gt;
-
-&lt;p&gt;&lt;strong&gt;For more information:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.amazon.com/gp/product/0385517254/ref=as_li_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=0385517254&amp;amp;linkCode=as2&amp;amp;tag=aurastrategic-20&amp;amp;linkId=991c863b5b535da177e2a3f5bdfa2a78&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;amp;MarketPlace=US&amp;amp;ASIN=0385517254&amp;amp;ServiceVersion=20070822&amp;amp;ID=AsinImage&amp;amp;WS=1&amp;amp;Format=_SL250_&amp;amp;tag=aurastrategic-20&quot; /&gt;&lt;/a&gt;&lt;img src=&quot;//ir-na.amazon-adsystem.com/e/ir?t=aurastrategic-20&amp;amp;l=am2&amp;amp;o=1&amp;amp;a=0385517254&quot; width=&quot;1&quot; height=&quot;1&quot; border=&quot;0&quot; alt=&quot;&quot; style=&quot;border:none !important; margin:0px !important;&quot; /&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -214,7 +236,7 @@
 &lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;diamandis_abundance:_2012&quot;&gt;Diamandis, P. H., &amp;amp; Kotler, S. (2012). &lt;i&gt;Abundance: The Future Is Better Than You Think&lt;/i&gt; (Reprint edition). Free Press.&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span id=&quot;johnson_origins_2010&quot;&gt;Johnson, S. (2010). The Origins of Good Ideas. &lt;i&gt;The WAll Street Journal&lt;/i&gt;. Retrieved from http://www.wsj.com/articles/SB10001424052748703989304575503730101860838&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;
+&lt;li&gt;&lt;span id=&quot;johnson_origins_2010&quot;&gt;Johnson, S. (2010). The Origins of Good Ideas. &lt;i&gt;The Wall Street Journal&lt;/i&gt;. Retrieved from http://www.wsj.com/articles/SB10001424052748703989304575503730101860838&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;
 
     &lt;p&gt;&lt;a href=&quot;http://aurastrategic.com/blog/adjacent-possible/&quot;&gt;The Adjacent Possible&lt;/a&gt; was originally published by Tim Jore at &lt;a href=&quot;http://aurastrategic.com&quot;&gt;Aura Strategic&lt;/a&gt; on June 05, 2016.&lt;/p&gt;
   </content>
@@ -305,7 +327,7 @@
 
 &lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
 
-&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;kahneman_thinking_2013&quot;&gt;Kahneman, D. (2013). &lt;i&gt;Thinking, fast and slow&lt;/i&gt;. New York: Farrar, Straus and Giroux. Retrieved from http://amzn.to/1NsRPqv&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;kahneman_thinking_2013&quot;&gt;Kahneman, D. (2013). &lt;i&gt;Thinking, Fast and Slow&lt;/i&gt;. New York: Farrar, Straus and Giroux.&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;
 
     &lt;p&gt;&lt;a href=&quot;http://aurastrategic.com/blog/wysiati/&quot;&gt;What You See Is All There Is&lt;/a&gt; was originally published by Tim Jore at &lt;a href=&quot;http://aurastrategic.com&quot;&gt;Aura Strategic&lt;/a&gt; on January 31, 2016.&lt;/p&gt;
   </content>
@@ -728,7 +750,7 @@
 
 &lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
 
-&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;kahneman_thinking_2013&quot;&gt;Kahneman, D. (2013). &lt;i&gt;Thinking, fast and slow&lt;/i&gt;. New York: Farrar, Straus and Giroux. Retrieved from http://amzn.to/1NsRPqv&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;kahneman_thinking_2013&quot;&gt;Kahneman, D. (2013). &lt;i&gt;Thinking, Fast and Slow&lt;/i&gt;. New York: Farrar, Straus and Giroux.&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;
 
 
     &lt;p&gt;&lt;a href=&quot;http://aurastrategic.com/blog/next-one-will-be-more-average/&quot;&gt;The Next One Will Be More Average&lt;/a&gt; was originally published by Tim Jore at &lt;a href=&quot;http://aurastrategic.com&quot;&gt;Aura Strategic&lt;/a&gt; on September 23, 2015.&lt;/p&gt;
@@ -1036,63 +1058,6 @@ and to give his life as a ransom for many.” –Matthew 20:26-28&lt;/p&gt;
 
 
     &lt;p&gt;&lt;a href=&quot;http://aurastrategic.com/blog/shall-not-be-so-among-you/&quot;&gt;It Shall Not Be So Among You&lt;/a&gt; was originally published by Tim Jore at &lt;a href=&quot;http://aurastrategic.com&quot;&gt;Aura Strategic&lt;/a&gt; on August 21, 2015.&lt;/p&gt;
-  </content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[The Historical Mandate for Bible Translation]]></title>
-  <link rel="alternate" type="text/html" href="http://aurastrategic.com/blog/historical-mandate-bible-translation/" />
-  <id>http://aurastrategic.com/blog/historical-mandate-bible-translation</id>
-  <published>2015-08-20T00:00:00-04:00</published>
-  <updated>2015-08-20T00:00:00-04:00</updated>
-  <author>
-    <name>Tim Jore</name>
-    <uri>http://aurastrategic.com</uri>
-    <email>timjore91@gmail.com</email>
-  </author>
-  <content type="html">
-    &lt;p&gt;Bible translation is not commanded in the Bible. As disciples of Jesus, we are clearly instructed to “make disciples” as part of what we do here on earth:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;And Jesus came and said to them, “All authority in heaven and on earth has been given to me. Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all that I have commanded you. And behold, I am with you always, to the end of the age.” —Matthew 28:18-20 (ESV)&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Bible translation is implied, as it is difficult (if not impossible) to be a disciple (meaning “learner”) without having the textbook. Being able to read and study the Bible in one’s heart language is an important part of becoming a mature disciple of Christ.&lt;/p&gt;
-
-&lt;p&gt;The so-called modern Bible translation movement may be reasonably considered to have started in England in 1802.&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; In a meeting of multiple denominations (that usually disagreed vehemently with each other), the greater Church in England resolved to form a society to meet the need for more Bibles. While the intent of the meeting was to meet the need for Bibles in Wales, the result was the formation of the British and Foreign Bible Society with the following mandate:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;provide faithful Bible translations&lt;/li&gt;
-  &lt;li&gt;without denominational slant&lt;/li&gt;
-  &lt;li&gt;at the lowest possible cost&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;The greater Church in many other countries has ratified the same mandate all over the world since then. While at first focused exclusively on distribution, translation soon became a critical first step. The Bible Societies self-coordinated under the banner of the United Bible Societies.&lt;/p&gt;
-
-&lt;p&gt;Eventually, many other organizations were formed to help meet the same need. The vast majority of them have self-coordinated as the Forum of Bible Agencies, which was started by the UBS to help them coordinate Bible translation globally. The mandate given to them (and by extension every Bible translation organization) is still valid. The Church has never rescinded the mandate to Bible translation organizations.&lt;/p&gt;
-
-&lt;p&gt;The “free and open” movement&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; has always been about accomplishing this mandate and picking up where some Bible Societies have failed in the mandate of the greater Church, with a particular focus on improving the “distribution” in every language “at the lowest possible cost.”&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;robertson_taking_1996&quot;&gt;Robertson, E. H. (1996). &lt;i&gt;Taking the Word to the world: 50 years of the United Bible Societies&lt;/i&gt;. Nashville, Tenn.: T. Nelson Publishers.&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span id=&quot;schaff_bible_1908&quot;&gt;Schaff, P. (1908). Bible Reading by the Laity, Restrictions on. &lt;i&gt;New Schaff-Herzog Encyclopedia of Religious Knowledge, Vol. II: Basilica - Chambers&lt;/i&gt;. Retrieved from http://www.ccel.org/ccel/schaff/encyc02.html?term=Bible%20Reading%20by%20the%20Laity,%20Restrictions%20on&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;
-
-&lt;p&gt;&lt;strong&gt;Notes&lt;/strong&gt;&lt;/p&gt;
-
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;The so-called “free and open movement” is described in &lt;em&gt;&lt;a href=&quot;http://thechristiancommons.com&quot;&gt;The Christian Commons&lt;/a&gt;&lt;/em&gt; and a real-world implementation of the concept is being collaboratively built at &lt;a href=&quot;https://unfoldingword.org&quot;&gt;unfoldingWord.org&lt;/a&gt;. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot;&gt;
-      &lt;p&gt;The events of that meeting are recounted in &lt;a href=&quot;#schaff_bible_1908&quot;&gt;(Schaff, 1908)&lt;/a&gt; and &lt;a href=&quot;#robertson_taking_1996&quot;&gt;(Robertson, 1996)&lt;/a&gt; &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;
-
-    &lt;p&gt;&lt;a href=&quot;http://aurastrategic.com/blog/historical-mandate-bible-translation/&quot;&gt;The Historical Mandate for Bible Translation&lt;/a&gt; was originally published by Tim Jore at &lt;a href=&quot;http://aurastrategic.com&quot;&gt;Aura Strategic&lt;/a&gt; on August 20, 2015.&lt;/p&gt;
   </content>
 </entry>
 
