@@ -1,0 +1,12 @@
+#!/bin/bash
+
+echo "Creating thumbnail for '$1'..."
+
+convert -thumbnail '190x80!' $1 tmp.jpg
+convert -crop '120x80+35' tmp.jpg tmp_tn.jpg
+
+rm tmp.jpg
+
+echo "Your thumbnail is: 'tmp_tn.jpg'"
+
+

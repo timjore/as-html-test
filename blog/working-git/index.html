@@ -1,0 +1,260 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<title>Working with Git &#8211; Aura Strategic</title>
+<meta name="description" content="Essential commands and procedures.">
+<meta name="keywords" content="productivity, utilities, plaintext, content-management">
+
+
+<!-- Twitter Cards -->
+<meta name="twitter:title" content="Working with Git">
+<meta name="twitter:description" content="Essential commands and procedures.">
+<meta name="twitter:site" content="@timjore">
+<meta name="twitter:creator" content="@timjore">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="http://aurastrategic.com/images/blog/git.jpg">
+
+<!-- Open Graph -->
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Working with Git">
+<meta property="og:description" content="Essential commands and procedures.">
+<meta property="og:url" content="http://aurastrategic.com/blog/working-git/">
+<meta property="og:site_name" content="Aura Strategic">
+
+
+
+
+
+<link rel="canonical" href="http://aurastrategic.com/blog/working-git/">
+<link href="http://aurastrategic.com/feed.xml" type="application/atom+xml" rel="alternate" title="Aura Strategic Feed">
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="http://aurastrategic.com/assets/css/main.css">
+<!-- Webfonts -->
+
+
+<!--<link href='http://fonts.googleapis.com/css?family=Vollkorn:400italic,700italic,400,700' rel='stylesheet' type='text/css'>-->
+<link href='https://fonts.googleapis.com/css?family=PT+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+<script src="https://use.edgefonts.net/source-sans-pro:n2,i2,n3,i3,n4,i4,n6,i6,n7,i7,n9,i9;source-code-pro:n4,n7;volkhov.js"></script>
+
+
+
+<meta http-equiv="cleartype" content="on">
+
+<!-- HTML5 Shiv and Media Query Support -->
+<!--[if lt IE 9]>
+  <script src="http://aurastrategic.com/assets/js/vendor/html5shiv.min.js"></script>
+  <script src="http://aurastrategic.com/assets/js/vendor/respond.min.js"></script>
+<![endif]-->
+
+<!-- Modernizr -->
+<script src="http://aurastrategic.com/assets/js/vendor/modernizr-2.7.1.custom.min.js"></script>
+
+
+
+<!-- Icons -->
+<!-- 16x16 -->
+<link rel="shortcut icon" href="http://aurastrategic.com/favicon.ico">
+<!-- 32x32 -->
+<link rel="shortcut icon" href="http://aurastrategic.com/favicon.png">
+<!-- 57x57 (precomposed) for iPhone 3GS, pre-2011 iPod Touch and older Android devices -->
+<link rel="apple-touch-icon-precomposed" href="http://aurastrategic.com/images/apple-touch-icon-precomposed.png">
+<!-- 72x72 (precomposed) for 1st generation iPad, iPad 2 and iPad mini -->
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://aurastrategic.com/images/apple-touch-icon-72x72-precomposed.png">
+<!-- 114x114 (precomposed) for iPhone 4, 4S, 5 and post-2011 iPod Touch -->
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://aurastrategic.com/images/apple-touch-icon-114x114-precomposed.png">
+<!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://aurastrategic.com/images/apple-touch-icon-144x144-precomposed.png">
+
+</head>
+
+<body id="page">
+
+<div class="navigation-wrapper">
+	<nav role="navigation" id="site-nav">
+		
+	    <ul><li><a href="http://aurastrategic.com"><img class="nav-logo" src="http://aurastrategic.com/images/nav-logo.png" ></a></li>
+      
+		    
+		    <li><a class="nav" href="http://aurastrategic.com/blog/" >Blog</a></li>
+		  
+		    
+		    <li><a class="nav" href="http://aurastrategic.com/books/" >Books</a></li>
+		  
+		    
+		    <li><a class="nav" href="http://aurastrategic.com/about/" >About</a></li>
+		  
+	    </ul>
+	</nav>
+</div><!-- /.navigation-wrapper -->
+
+<!--[if lt IE 9]><div class="upgrade"><strong><a href="http://whatbrowser.org/">Your browser is quite old!</strong> Why not upgrade to a different browser to better enjoy this site?</a></div><![endif]-->
+
+<header class="masthead">
+	
+</header><!-- /.masthead -->
+
+
+<div class="js-menu-screen menu-screen"></div>
+
+
+<div id="main" role="main">
+  <article class="entry">
+
+    <img src="http://aurastrategic.com/images/blog.jpg" class="entry-feature-image" alt="Working with Git"  style="margin-top:0;"><!-- image credit  -->
+
+    <div class="entry-wrapper">
+      <header class="entry-header">
+
+        <h1 class="entry-title">Working with Git</h1>
+		
+			<p class="entry-subtitle">Essential commands and procedures.</p>
+		
+
+		<img src="http://aurastrategic.com/images/blog/git.jpg" class="shadow" alt="Working with Git" style="margin-top:12px;margin-bottom:64px">
+
+      </header>
+      <div class="entry-content">
+        <p><a href="http://git-scm.com" title="Git Homepage">Git</a> is an excellent distributed revision control tool. All my writing is done offline, using text files in Git repositories. This provides remote backup across any number of devices, with full revision control on all of them. If any device is lost, disabled, or broken, I can pick up without any loss (and with the complete revision history intact) from any of the other repositories.</p>
+
+<p>I am far from proficient using Git. I only use about 20% of the total functionality of Git and usually manage my repositories with a client like <a href="https://www.git-tower.com/" title="Tower Git Client">Tower</a> or <a href="https://desktop.github.com/" title="Github Desktop app">Github Desktop</a>. That said, these are the Git commands that I use most frequently when working “under the hood”.</p>
+
+<p>Set up an existing directory as a Git repository:</p>
+
+<p><code>git init &lt;directory&gt;</code></p>
+
+<p>Set up a remote  Git repository (to sync with an existing repository):</p>
+
+<p><code>git init --bare &lt;directory&gt;</code></p>
+
+<p><em>Note: if a remote repository is setup without the</em> <code>--bare</code> <em>use this to change it to a bare repository:</em> <code>git config --bool core.bare true</code></p>
+
+<p>Add a remote repository:</p>
+
+<p><code>git remote add myremote username@servername.com:directory/to/repository.git</code></p>
+
+<p>Push the master branch to the new repository</p>
+
+<p><code>git push myremote master</code></p>
+
+
+      </div><!-- /.entry-content -->
+
+    
+
+      <span class="entry-tags">By Tim Jore, <time datetime="2016-02-07T00:00:00-05:00"> 07 February 2016</time>, <a href="http://aurastrategic.com/tags/#productivity" title="Pages tagged productivity">productivity</a>&nbsp;&bull;&nbsp;<a href="http://aurastrategic.com/tags/#utilities" title="Pages tagged utilities">utilities</a>&nbsp;&bull;&nbsp;<a href="http://aurastrategic.com/tags/#plaintext" title="Pages tagged plaintext">plaintext</a>&nbsp;&bull;&nbsp;<a href="http://aurastrategic.com/tags/#content-management" title="Pages tagged content-management">content-management</a></span>
+
+    </div><!-- /.entry-wrapper -->
+    <nav class="pagination" role="navigation">
+      
+        <a href="http://aurastrategic.com/blog/wysiati/" class="btn" title="What You See Is All There Is">Previous</a>
+      
+      
+        <a href="http://aurastrategic.com/blog/adjacent-possible/" class="btn" title="The Adjacent Possible">Next</a>
+      
+    </nav><!-- /.pagination -->
+  </article>
+
+  
+
+</div><!-- /#main -->
+
+
+
+<div class="footer-wrapper">
+  <footer role="contentinfo" class="entry-wrapper">
+    
+
+
+<p class="site-title"><a href="http://aurastrategic.com/">Aura Strategic</a></p>
+
+<p class="site-description" itemprop="description">What matters is who you become.</p>
+
+<p class="footer-menu">
+	<a href="http://aurastrategic.com/strategic">Strategic</a> | 
+	<a href="http://aurastrategic.com/effective">Effective</a> | 
+	<a href="http://aurastrategic.com/alive">Alive</a>
+
+<p class="copyright">&copy; 2017 Tim Jore. Original content released under <a href="http://creativecommons.com/licenses/by-sa/4.0">CC BY-SA 4.0</a>.</p>
+<div class="social-icons">
+	<a href="https://twitter.com/timjore" title="Tim Jore on Twitter" target="_blank"><i class="fa fa-twitter-square fa-2x"></i></a>
+	
+	
+	<a href="https://linkedin.com/in/timjore" title="Tim Jore on LinkedIn" target="_blank"><i class="fa fa-linkedin-square fa-2x"></i></a>
+	
+	
+	
+	<a href="https://github.com/timjore" title="Tim Jore on Github" target="_blank"><i class="fa fa-github-square fa-2x"></i></a>
+	
+  
+	
+  <a href="http://feeds.feedburner.com/TowardFreedom" title="Atom/RSS feed"><i class="fa fa-rss-square fa-2x"></i></a>
+</div><!-- /.social-icons -->
+
+  </footer>
+</div><!-- /.footer-wrapper -->
+
+<script type="text/javascript">
+  var BASE_URL = 'http://aurastrategic.com';
+</script>
+
+<!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="http://aurastrategic.com/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>-->
+<script src="http://aurastrategic.com/assets/js/vendor/jquery-1.9.1.min.js"></script>
+<script src="http://aurastrategic.com/assets/js/scripts.min.js"></script>
+
+
+<!-- Asynchronous Google Analytics snippet -->
+<script>
+  var _gaq = _gaq || [];
+  var pluginUrl =
+ 'https://www.google-analytics.com/plugins/ga/inpage_linkid.js';
+  _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+  _gaq.push(['_setAccount', 'UA-66364771-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = 'https://stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-66364771-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+  
+<script>
+	var refTagger = {
+		settings: {
+			bibleVersion: "ESV"			
+		}
+	};
+	(function(d, t) {
+		var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+		g.src = "//api.reftagger.com/v2/RefTagger.js";
+		s.parentNode.insertBefore(g, s);
+	}(document, "script"));
+</script>
+
+</body>
+</html>
