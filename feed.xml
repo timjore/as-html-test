@@ -2,26 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">Aura Strategic</title>
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="http://aurastrategic.com/feed.xml" />
-<link rel="alternate" type="text/html" href="http://aurastrategic.com" />
-<updated>2017-12-24T14:36:28-05:00</updated>
-<id>http://aurastrategic.com/</id>
+<link rel="self" type="application/atom+xml" href="https://aurastrategic.com/feed.xml" />
+<link rel="alternate" type="text/html" href="https://aurastrategic.com" />
+<updated>2017-12-24T14:45:56-05:00</updated>
+<id>https://aurastrategic.com/</id>
 <author>
   <name>Tim Jore</name>
-  <uri>http://aurastrategic.com/</uri>
+  <uri>https://aurastrategic.com/</uri>
   <email>timjore91@gmail.com</email>
 </author>
 
 
 <entry>
   <title type="html"><![CDATA[On Writing Less, More]]></title>
-  <link rel="alternate" type="text/html" href="http://aurastrategic.com/blog/on-writing-less-more/" />
-  <id>http://aurastrategic.com/blog/on-writing-less-more</id>
+  <link rel="alternate" type="text/html" href="https://aurastrategic.com/blog/on-writing-less-more/" />
+  <id>https://aurastrategic.com/blog/on-writing-less-more</id>
   <published>2017-12-24T13:26:17-05:00</published>
   <updated>2017-12-24T13:26:17-05:00</updated>
   <author>
     <name>Tim Jore</name>
-    <uri>http://aurastrategic.com</uri>
+    <uri>https://aurastrategic.com</uri>
     <email>timjore91@gmail.com</email>
   </author>
   <content type="html">
@@ -34,20 +34,20 @@
 &lt;p&gt;I also realized that I needed to squeeze out as much of the overhead as possible in the publishing process. To that end, I have switched from publishing via Amazon S3 buckets and have started using &lt;strong&gt;&lt;a href=&quot;https://github.com&quot;&gt;GitHub&lt;/a&gt;&lt;/strong&gt; (to store the Jekyll-rendered static website) and &lt;strong&gt;&lt;a href=&quot;https://netlify.com&quot;&gt;Netlify&lt;/a&gt;&lt;/strong&gt; to serve the site.&lt;/p&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;http://aurastrategic.com/blog/on-writing-less-more/&quot;&gt;On Writing Less, More&lt;/a&gt; was originally published by Tim Jore at &lt;a href=&quot;http://aurastrategic.com&quot;&gt;Aura Strategic&lt;/a&gt; on December 24, 2017.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;https://aurastrategic.com/blog/on-writing-less-more/&quot;&gt;On Writing Less, More&lt;/a&gt; was originally published by Tim Jore at &lt;a href=&quot;https://aurastrategic.com&quot;&gt;Aura Strategic&lt;/a&gt; on December 24, 2017.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[What Matters]]></title>
-  <link rel="alternate" type="text/html" href="http://aurastrategic.com/blog/what-matters/" />
-  <id>http://aurastrategic.com/blog/what-matters</id>
+  <link rel="alternate" type="text/html" href="https://aurastrategic.com/blog/what-matters/" />
+  <id>https://aurastrategic.com/blog/what-matters</id>
   <published>2016-09-05T00:00:00-04:00</published>
   <updated>2016-09-05T00:00:00-04:00</updated>
   <author>
     <name>Tim Jore</name>
-    <uri>http://aurastrategic.com</uri>
+    <uri>https://aurastrategic.com</uri>
     <email>timjore91@gmail.com</email>
   </author>
   <content type="html">
@@ -61,20 +61,20 @@
 
 &lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;ortberg_soul_2014&quot;&gt;Ortberg, J. (2014). &lt;i&gt;Soul Keeping: Caring For the Most Important Part of You&lt;/i&gt;. Grand Rapids, Michigan: Zondervan.&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://aurastrategic.com/blog/what-matters/&quot;&gt;What Matters&lt;/a&gt; was originally published by Tim Jore at &lt;a href=&quot;http://aurastrategic.com&quot;&gt;Aura Strategic&lt;/a&gt; on September 05, 2016.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;https://aurastrategic.com/blog/what-matters/&quot;&gt;What Matters&lt;/a&gt; was originally published by Tim Jore at &lt;a href=&quot;https://aurastrategic.com&quot;&gt;Aura Strategic&lt;/a&gt; on September 05, 2016.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Ideas Are Like Leaves]]></title>
-  <link rel="alternate" type="text/html" href="http://aurastrategic.com/blog/ideas-are-like-leaves/" />
-  <id>http://aurastrategic.com/blog/ideas-are-like-leaves</id>
+  <link rel="alternate" type="text/html" href="https://aurastrategic.com/blog/ideas-are-like-leaves/" />
+  <id>https://aurastrategic.com/blog/ideas-are-like-leaves</id>
   <published>2016-08-04T00:00:00-04:00</published>
   <updated>2016-08-04T00:00:00-04:00</updated>
   <author>
     <name>Tim Jore</name>
-    <uri>http://aurastrategic.com</uri>
+    <uri>https://aurastrategic.com</uri>
     <email>timjore91@gmail.com</email>
   </author>
   <content type="html">
@@ -90,20 +90,20 @@
 
 &lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;senge_fifth_2010&quot;&gt;Senge, P. M. (2010). &lt;i&gt;The Fifth Discipline: The Art &amp;amp; Practice of The Learning Organization&lt;/i&gt; (Revised &amp;amp; Updated edition). Crown Business.&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://aurastrategic.com/blog/ideas-are-like-leaves/&quot;&gt;Ideas Are Like Leaves&lt;/a&gt; was originally published by Tim Jore at &lt;a href=&quot;http://aurastrategic.com&quot;&gt;Aura Strategic&lt;/a&gt; on August 04, 2016.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;https://aurastrategic.com/blog/ideas-are-like-leaves/&quot;&gt;Ideas Are Like Leaves&lt;/a&gt; was originally published by Tim Jore at &lt;a href=&quot;https://aurastrategic.com&quot;&gt;Aura Strategic&lt;/a&gt; on August 04, 2016.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[1% is Halfway]]></title>
-  <link rel="alternate" type="text/html" href="http://aurastrategic.com/blog/1percent-halfway/" />
-  <id>http://aurastrategic.com/blog/1percent-halfway</id>
+  <link rel="alternate" type="text/html" href="https://aurastrategic.com/blog/1percent-halfway/" />
+  <id>https://aurastrategic.com/blog/1percent-halfway</id>
   <published>2016-07-01T00:00:00-04:00</published>
   <updated>2016-07-01T00:00:00-04:00</updated>
   <author>
     <name>Tim Jore</name>
-    <uri>http://aurastrategic.com</uri>
+    <uri>https://aurastrategic.com</uri>
     <email>timjore91@gmail.com</email>
   </author>
   <content type="html">
@@ -148,7 +148,7 @@
 &lt;tr&gt;&lt;td align=&quot;right&quot;&gt;14&lt;/td&gt;&lt;td align=&quot;right&quot;&gt;128%&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
-&lt;p class=&quot;shadow&quot;&gt;&lt;img src=&quot;http://aurastrategic.com/images/blog/1percent-halfway/1-1percent-halfway.png&quot; alt=&quot;1% is Halfway&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;shadow&quot;&gt;&lt;img src=&quot;https://aurastrategic.com/images/blog/1percent-halfway/1-1percent-halfway.png&quot; alt=&quot;1% is Halfway&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Why are we so bad at understanding exponential growth and its implications?&lt;/strong&gt; Peter Diamandis suggests that it has to do with our predominantly local frame of reference:&lt;/p&gt;
 
@@ -166,11 +166,11 @@
 
 &lt;p&gt;A related problem is that early stages of exponential growth look suspiciously like very shallow linear growth:&lt;/p&gt;
 
-&lt;p class=&quot;shadow&quot;&gt;&lt;img src=&quot;http://aurastrategic.com/images/blog/1percent-halfway/2-trend-line.png&quot; alt=&quot;1% is Halfway&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;shadow&quot;&gt;&lt;img src=&quot;https://aurastrategic.com/images/blog/1percent-halfway/2-trend-line.png&quot; alt=&quot;1% is Halfway&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Executives who do not recognize an exponential growth pattern and the vastly greater outcome that will occur in the last 2-3 generations of growth may attempt to correct the perceived shallow rate of linear growth. In so doing, they may increase production at the expense of investing in production capacity.&lt;/p&gt;
 
-&lt;p class=&quot;shadow&quot;&gt;&lt;img src=&quot;http://aurastrategic.com/images/blog/1percent-halfway/3-linear-too-steep.png&quot; alt=&quot;1% is Halfway&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;shadow&quot;&gt;&lt;img src=&quot;https://aurastrategic.com/images/blog/1percent-halfway/3-linear-too-steep.png&quot; alt=&quot;1% is Halfway&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Their good intent may doom the outcome, if they find they are unable to sustain an accelerated rate of linear growth and they achieve neither the exponential outcome (for lack of building exponential capacity) nor the linear outcome (for lack of production capacity).&lt;/p&gt;
 
@@ -192,20 +192,20 @@
 &lt;li&gt;&lt;span id=&quot;kurzweil_singularity_2005&quot;&gt;Kurzweil, R. (2005). &lt;i&gt;The Singularity Is Near: When Humans Transcend Biology&lt;/i&gt;. Penguin Publishing Group.&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;&lt;span id=&quot;scott-morgan_reality_2012&quot;&gt;Scott-Morgan, D. P. B. (2012). &lt;i&gt;The Reality of our Global Future: How five unstoppable High-Tech trends will dominate our lives and transform our world&lt;/i&gt;.&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://aurastrategic.com/blog/1percent-halfway/&quot;&gt;1% is Halfway&lt;/a&gt; was originally published by Tim Jore at &lt;a href=&quot;http://aurastrategic.com&quot;&gt;Aura Strategic&lt;/a&gt; on July 01, 2016.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;https://aurastrategic.com/blog/1percent-halfway/&quot;&gt;1% is Halfway&lt;/a&gt; was originally published by Tim Jore at &lt;a href=&quot;https://aurastrategic.com&quot;&gt;Aura Strategic&lt;/a&gt; on July 01, 2016.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[The Adjacent Possible]]></title>
-  <link rel="alternate" type="text/html" href="http://aurastrategic.com/blog/adjacent-possible/" />
-  <id>http://aurastrategic.com/blog/adjacent-possible</id>
+  <link rel="alternate" type="text/html" href="https://aurastrategic.com/blog/adjacent-possible/" />
+  <id>https://aurastrategic.com/blog/adjacent-possible</id>
   <published>2016-06-05T00:00:00-04:00</published>
   <updated>2016-06-05T00:00:00-04:00</updated>
   <author>
     <name>Tim Jore</name>
-    <uri>http://aurastrategic.com</uri>
+    <uri>https://aurastrategic.com</uri>
     <email>timjore91@gmail.com</email>
   </author>
   <content type="html">
@@ -238,20 +238,20 @@
 &lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;diamandis_abundance:_2012&quot;&gt;Diamandis, P. H., &amp;amp; Kotler, S. (2012). &lt;i&gt;Abundance: The Future Is Better Than You Think&lt;/i&gt; (Reprint edition). Free Press.&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;&lt;span id=&quot;johnson_origins_2010&quot;&gt;Johnson, S. (2010). The Origins of Good Ideas. &lt;i&gt;The Wall Street Journal&lt;/i&gt;. Retrieved from http://www.wsj.com/articles/SB10001424052748703989304575503730101860838&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://aurastrategic.com/blog/adjacent-possible/&quot;&gt;The Adjacent Possible&lt;/a&gt; was originally published by Tim Jore at &lt;a href=&quot;http://aurastrategic.com&quot;&gt;Aura Strategic&lt;/a&gt; on June 05, 2016.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;https://aurastrategic.com/blog/adjacent-possible/&quot;&gt;The Adjacent Possible&lt;/a&gt; was originally published by Tim Jore at &lt;a href=&quot;https://aurastrategic.com&quot;&gt;Aura Strategic&lt;/a&gt; on June 05, 2016.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Working with Git]]></title>
-  <link rel="alternate" type="text/html" href="http://aurastrategic.com/blog/working-git/" />
-  <id>http://aurastrategic.com/blog/working-git</id>
+  <link rel="alternate" type="text/html" href="https://aurastrategic.com/blog/working-git/" />
+  <id>https://aurastrategic.com/blog/working-git</id>
   <published>2016-02-07T00:00:00-05:00</published>
   <updated>2016-02-07T00:00:00-05:00</updated>
   <author>
     <name>Tim Jore</name>
-    <uri>http://aurastrategic.com</uri>
+    <uri>https://aurastrategic.com</uri>
     <email>timjore91@gmail.com</email>
   </author>
   <content type="html">
@@ -278,20 +278,20 @@
 &lt;p&gt;&lt;code&gt;git push myremote master&lt;/code&gt;&lt;/p&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;http://aurastrategic.com/blog/working-git/&quot;&gt;Working with Git&lt;/a&gt; was originally published by Tim Jore at &lt;a href=&quot;http://aurastrategic.com&quot;&gt;Aura Strategic&lt;/a&gt; on February 07, 2016.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;https://aurastrategic.com/blog/working-git/&quot;&gt;Working with Git&lt;/a&gt; was originally published by Tim Jore at &lt;a href=&quot;https://aurastrategic.com&quot;&gt;Aura Strategic&lt;/a&gt; on February 07, 2016.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[What You See Is All There Is]]></title>
-  <link rel="alternate" type="text/html" href="http://aurastrategic.com/blog/wysiati/" />
-  <id>http://aurastrategic.com/blog/wysiati</id>
+  <link rel="alternate" type="text/html" href="https://aurastrategic.com/blog/wysiati/" />
+  <id>https://aurastrategic.com/blog/wysiati</id>
   <published>2016-01-31T00:00:00-05:00</published>
   <updated>2016-01-31T00:00:00-05:00</updated>
   <author>
     <name>Tim Jore</name>
-    <uri>http://aurastrategic.com</uri>
+    <uri>https://aurastrategic.com</uri>
     <email>timjore91@gmail.com</email>
   </author>
   <content type="html">
@@ -329,20 +329,20 @@
 
 &lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;kahneman_thinking_2013&quot;&gt;Kahneman, D. (2013). &lt;i&gt;Thinking, Fast and Slow&lt;/i&gt;. New York: Farrar, Straus and Giroux.&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://aurastrategic.com/blog/wysiati/&quot;&gt;What You See Is All There Is&lt;/a&gt; was originally published by Tim Jore at &lt;a href=&quot;http://aurastrategic.com&quot;&gt;Aura Strategic&lt;/a&gt; on January 31, 2016.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;https://aurastrategic.com/blog/wysiati/&quot;&gt;What You See Is All There Is&lt;/a&gt; was originally published by Tim Jore at &lt;a href=&quot;https://aurastrategic.com&quot;&gt;Aura Strategic&lt;/a&gt; on January 31, 2016.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[The Two Sources of Failure]]></title>
-  <link rel="alternate" type="text/html" href="http://aurastrategic.com/blog/two-sources-failure/" />
-  <id>http://aurastrategic.com/blog/two-sources-failure</id>
+  <link rel="alternate" type="text/html" href="https://aurastrategic.com/blog/two-sources-failure/" />
+  <id>https://aurastrategic.com/blog/two-sources-failure</id>
   <published>2016-01-16T00:00:00-05:00</published>
   <updated>2016-01-16T00:00:00-05:00</updated>
   <author>
     <name>Tim Jore</name>
-    <uri>http://aurastrategic.com</uri>
+    <uri>https://aurastrategic.com</uri>
     <email>timjore91@gmail.com</email>
   </author>
   <content type="html">
@@ -368,39 +368,39 @@
 
 &lt;ol class=&quot;bibliography&quot;&gt;&lt;/ol&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://aurastrategic.com/blog/two-sources-failure/&quot;&gt;The Two Sources of Failure&lt;/a&gt; was originally published by Tim Jore at &lt;a href=&quot;http://aurastrategic.com&quot;&gt;Aura Strategic&lt;/a&gt; on January 16, 2016.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;https://aurastrategic.com/blog/two-sources-failure/&quot;&gt;The Two Sources of Failure&lt;/a&gt; was originally published by Tim Jore at &lt;a href=&quot;https://aurastrategic.com&quot;&gt;Aura Strategic&lt;/a&gt; on January 16, 2016.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Leaders, Technology, Tactics, and Trust]]></title>
-  <link rel="alternate" type="text/html" href="http://aurastrategic.com/blog/leaders-technology-tactics-trust/" />
-  <id>http://aurastrategic.com/blog/leaders-technology-tactics-trust</id>
+  <link rel="alternate" type="text/html" href="https://aurastrategic.com/blog/leaders-technology-tactics-trust/" />
+  <id>https://aurastrategic.com/blog/leaders-technology-tactics-trust</id>
   <published>2016-01-14T00:00:00-05:00</published>
   <updated>2016-01-14T00:00:00-05:00</updated>
   <author>
     <name>Tim Jore</name>
-    <uri>http://aurastrategic.com</uri>
+    <uri>https://aurastrategic.com</uri>
     <email>timjore91@gmail.com</email>
   </author>
   <content type="html">
     &lt;p&gt;To the degree that the leader does not or cannot understand the tools, tactics, and methods that enable the team to achieve the objective, they absolutely must rely on and trust the team. Thus, &lt;strong&gt;trust is the single most crucial aspect of a high performance team&lt;/strong&gt;, because in the increasingly complex and rapidly changing world of today, no leader can fully understand all the component pieces adequately in order to issue unilateral mandates. Milestones along the way to successful outcomes must be set, and achieved collaboratively.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://aurastrategic.com/blog/leaders-technology-tactics-trust/&quot;&gt;Leaders, Technology, Tactics, and Trust&lt;/a&gt; was originally published by Tim Jore at &lt;a href=&quot;http://aurastrategic.com&quot;&gt;Aura Strategic&lt;/a&gt; on January 14, 2016.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;https://aurastrategic.com/blog/leaders-technology-tactics-trust/&quot;&gt;Leaders, Technology, Tactics, and Trust&lt;/a&gt; was originally published by Tim Jore at &lt;a href=&quot;https://aurastrategic.com&quot;&gt;Aura Strategic&lt;/a&gt; on January 14, 2016.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Excellence is Attributed By Others]]></title>
-  <link rel="alternate" type="text/html" href="http://aurastrategic.com/blog/excellence-attributed-others/" />
-  <id>http://aurastrategic.com/blog/excellence-attributed-others</id>
+  <link rel="alternate" type="text/html" href="https://aurastrategic.com/blog/excellence-attributed-others/" />
+  <id>https://aurastrategic.com/blog/excellence-attributed-others</id>
   <published>2016-01-06T00:00:00-05:00</published>
   <updated>2016-01-06T00:00:00-05:00</updated>
   <author>
     <name>Tim Jore</name>
-    <uri>http://aurastrategic.com</uri>
+    <uri>https://aurastrategic.com</uri>
     <email>timjore91@gmail.com</email>
   </author>
   <content type="html">
@@ -420,20 +420,20 @@
 
 &lt;ol class=&quot;bibliography&quot;&gt;&lt;/ol&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://aurastrategic.com/blog/excellence-attributed-others/&quot;&gt;Excellence is Attributed By Others&lt;/a&gt; was originally published by Tim Jore at &lt;a href=&quot;http://aurastrategic.com&quot;&gt;Aura Strategic&lt;/a&gt; on January 06, 2016.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;https://aurastrategic.com/blog/excellence-attributed-others/&quot;&gt;Excellence is Attributed By Others&lt;/a&gt; was originally published by Tim Jore at &lt;a href=&quot;https://aurastrategic.com&quot;&gt;Aura Strategic&lt;/a&gt; on January 06, 2016.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Observations on Change and Those Who Cause It]]></title>
-  <link rel="alternate" type="text/html" href="http://aurastrategic.com/blog/observations-change-those-who-foment/" />
-  <id>http://aurastrategic.com/blog/observations-change-those-who-foment</id>
+  <link rel="alternate" type="text/html" href="https://aurastrategic.com/blog/observations-change-those-who-foment/" />
+  <id>https://aurastrategic.com/blog/observations-change-those-who-foment</id>
   <published>2015-11-11T00:00:00-05:00</published>
   <updated>2015-11-11T00:00:00-05:00</updated>
   <author>
     <name>Tim Jore</name>
-    <uri>http://aurastrategic.com</uri>
+    <uri>https://aurastrategic.com</uri>
     <email>timjore91@gmail.com</email>
   </author>
   <content type="html">
@@ -447,7 +447,7 @@
 
 &lt;p&gt;&lt;strong&gt;4. Cessation of listening.&lt;/strong&gt; Working to bring about change requires increasing knowledge—knowledge about the depth and severity of the problem that needs to be fixed, and knowledge about the proposed solution. Together with the increase of knowledge comes (almost inevitably) a reluctance to really listen, especially to anyone or anything from the opposing camp. The solution to this fingers-in-the-ears-I’m-right-you’re-wrong problem might be as simple as adopting an attitude of &lt;em&gt;asking advice&lt;/em&gt;. It does not necessarily mean the advice will be taken (though it must be genuinely sought), but it assumes a posture of one who—no matter how right they believe themselves to be—still listens and learns… kind of like a disciple.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;5. Confirmation bias.&lt;/strong&gt; Often tied to &lt;a href=&quot;http://aurastrategic.com/blog/danger-small-numbers&quot;&gt;early successes&lt;/a&gt;, it is easy to seek out and receive only the anecdotes and factoids that support the assumption of what is true. Everything else either does not compute or is quietly discarded, in the hope of making a more solid case for the change that is desired. Ironically, crucial evidence that &lt;em&gt;could&lt;/em&gt; make the case stronger (or at least prevent train wrecks based on false assumptions) is missed.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;5. Confirmation bias.&lt;/strong&gt; Often tied to &lt;a href=&quot;https://aurastrategic.com/blog/danger-small-numbers&quot;&gt;early successes&lt;/a&gt;, it is easy to seek out and receive only the anecdotes and factoids that support the assumption of what is true. Everything else either does not compute or is quietly discarded, in the hope of making a more solid case for the change that is desired. Ironically, crucial evidence that &lt;em&gt;could&lt;/em&gt; make the case stronger (or at least prevent train wrecks based on false assumptions) is missed.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;6. Poisoned by Attitude.&lt;/strong&gt; Maybe you have observed it: the clearly brilliant person who is well-read, speaks with authority that comes from years of experience, and provides new perspectives that have the ring of truth to them… but something is off. The words are right, but there is a sense that not all is as it should be. Then you see it. The subtle-yet-pervasive attitude that there is only one man—the Dear Leader—who has received truth (possibly believed to be &lt;em&gt;Truth&lt;/em&gt;) from the Divine, and there is not even a close second. What he says, goes. No one else need even be on the roster, why share the stage or have anyone else create original content or teach? They would be redundant, at best. The anointed one has everything covered, thank you very much. This attitude of self-centeredness is terribly crafty and has the disturbing effect of simultaneously eroding sight while promising greater vision.&lt;/p&gt;
 
@@ -480,20 +480,20 @@
 &lt;/ol&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;http://aurastrategic.com/blog/observations-change-those-who-foment/&quot;&gt;Observations on Change and Those Who Cause It&lt;/a&gt; was originally published by Tim Jore at &lt;a href=&quot;http://aurastrategic.com&quot;&gt;Aura Strategic&lt;/a&gt; on November 11, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;https://aurastrategic.com/blog/observations-change-those-who-foment/&quot;&gt;Observations on Change and Those Who Cause It&lt;/a&gt; was originally published by Tim Jore at &lt;a href=&quot;https://aurastrategic.com&quot;&gt;Aura Strategic&lt;/a&gt; on November 11, 2015.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[The Difference Between Rulers and Leaders]]></title>
-  <link rel="alternate" type="text/html" href="http://aurastrategic.com/blog/difference-between-rulers-leaders/" />
-  <id>http://aurastrategic.com/blog/difference-between-rulers-leaders</id>
+  <link rel="alternate" type="text/html" href="https://aurastrategic.com/blog/difference-between-rulers-leaders/" />
+  <id>https://aurastrategic.com/blog/difference-between-rulers-leaders</id>
   <published>2015-11-06T00:00:00-05:00</published>
   <updated>2015-11-06T00:00:00-05:00</updated>
   <author>
     <name>Tim Jore</name>
-    <uri>http://aurastrategic.com</uri>
+    <uri>https://aurastrategic.com</uri>
     <email>timjore91@gmail.com</email>
   </author>
   <content type="html">
@@ -509,7 +509,7 @@
   &lt;p&gt;Beloved, do not imitate evil but imitate good. Whoever does good is from God; whoever does evil has not seen God.  —3 John 1:11 (ESV)&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Loving power, &lt;a href=&quot;http://aurastrategic.com/blog/shall-not-be-so-among-you&quot;&gt;ruling over others&lt;/a&gt;, and playing the political game to stay in control is dishonoring to God. Which makes the contrast of Diotrephes with Demetrius so stark:&lt;/p&gt;
+&lt;p&gt;Loving power, &lt;a href=&quot;https://aurastrategic.com/blog/shall-not-be-so-among-you&quot;&gt;ruling over others&lt;/a&gt;, and playing the political game to stay in control is dishonoring to God. Which makes the contrast of Diotrephes with Demetrius so stark:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Demetrius has received a good testimony from everyone, and from the truth itself. We also add our testimony, and you know that our testimony is true. —3 John 1:12 (ESV)&lt;/p&gt;
@@ -520,20 +520,20 @@
 &lt;p&gt;Not only does Demetrius receive a good testimony from everyone who knows him, but he receives a good testimony from the truth itself. Meaning: what Demetrius teaches and does is done with integrity, in the open, where all can see that it is in line with the Truth of God’s Word. Demetrius is not playing a power game of withholding information to leverage power for his own advance. He lives openly, humbly, and honestly. So in addition to the testimony of the people who know him and the testimony of the truth itself, John adds the testimony of the apostles to the affirmation of Demetrius’ good character.&lt;/p&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;http://aurastrategic.com/blog/difference-between-rulers-leaders/&quot;&gt;The Difference Between Rulers and Leaders&lt;/a&gt; was originally published by Tim Jore at &lt;a href=&quot;http://aurastrategic.com&quot;&gt;Aura Strategic&lt;/a&gt; on November 06, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;https://aurastrategic.com/blog/difference-between-rulers-leaders/&quot;&gt;The Difference Between Rulers and Leaders&lt;/a&gt; was originally published by Tim Jore at &lt;a href=&quot;https://aurastrategic.com&quot;&gt;Aura Strategic&lt;/a&gt; on November 06, 2015.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[The Three Kinds of Networks (and Why They Matter)]]></title>
-  <link rel="alternate" type="text/html" href="http://aurastrategic.com/blog/three-kinds-networks/" />
-  <id>http://aurastrategic.com/blog/three-kinds-networks</id>
+  <link rel="alternate" type="text/html" href="https://aurastrategic.com/blog/three-kinds-networks/" />
+  <id>https://aurastrategic.com/blog/three-kinds-networks</id>
   <published>2015-11-05T00:00:00-05:00</published>
   <updated>2015-11-05T00:00:00-05:00</updated>
   <author>
     <name>Tim Jore</name>
-    <uri>http://aurastrategic.com</uri>
+    <uri>https://aurastrategic.com</uri>
     <email>timjore91@gmail.com</email>
   </author>
   <content type="html">
@@ -541,13 +541,13 @@
 
 &lt;h2 id=&quot;disconnected-nodes&quot;&gt;Disconnected nodes&lt;/h2&gt;
 
-&lt;p class=&quot;shadow&quot;&gt;&lt;img src=&quot;http://aurastrategic.com/images/blog/nodes-networks/nodes-networks.001.jpg&quot; alt=&quot;Nodes&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;shadow&quot;&gt;&lt;img src=&quot;https://aurastrategic.com/images/blog/nodes-networks/nodes-networks.001.jpg&quot; alt=&quot;Nodes&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;At the outset (and somewhat obviously), nodes that exist without any connection to other nodes are isolated and no network of any form exists.&lt;/p&gt;
 
 &lt;h2 id=&quot;centralized&quot;&gt;Centralized&lt;/h2&gt;
 
-&lt;p class=&quot;shadow&quot;&gt;&lt;img src=&quot;http://aurastrategic.com/images/blog/nodes-networks/nodes-networks.002.jpg&quot; alt=&quot;Centralized&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;shadow&quot;&gt;&lt;img src=&quot;https://aurastrategic.com/images/blog/nodes-networks/nodes-networks.002.jpg&quot; alt=&quot;Centralized&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The simplest form of a network involves a single, centralized “hub” node to which every other dependent node connects. The classic business model is a centralized network (one seller, many buyers), as are many online content providers (one server, many web browsers).&lt;/p&gt;
 
@@ -555,13 +555,13 @@
 
 &lt;h2 id=&quot;decentralized&quot;&gt;Decentralized&lt;/h2&gt;
 
-&lt;p class=&quot;shadow&quot;&gt;&lt;img src=&quot;http://aurastrategic.com/images/blog/nodes-networks/nodes-networks.003.jpg&quot; alt=&quot;Decentralized&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;shadow&quot;&gt;&lt;img src=&quot;https://aurastrategic.com/images/blog/nodes-networks/nodes-networks.003.jpg&quot; alt=&quot;Decentralized&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;When more than one centralized network is connected through multiple links, the result is a decentralized network. Examples could include trade associations and computer server farms that provide redundancy and improved reliability. The Internet itself is a complex and decentralized mesh of networks, as there are many servers with hosts connected to them, but the servers are themselves connected to multiple other servers.&lt;/p&gt;
 
 &lt;h2 id=&quot;distributed&quot;&gt;Distributed&lt;/h2&gt;
 
-&lt;p class=&quot;shadow&quot;&gt;&lt;img src=&quot;http://aurastrategic.com/images/blog/nodes-networks/nodes-networks.004.jpg&quot; alt=&quot;Distributed&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;shadow&quot;&gt;&lt;img src=&quot;https://aurastrategic.com/images/blog/nodes-networks/nodes-networks.004.jpg&quot; alt=&quot;Distributed&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;A distributed network is unique in that there are no dedicated hubs. Every node is also a hub, both connecting to other nodes and being connected to by them. Not every node is necessarily connected to every other node, but each node has the &lt;em&gt;ability&lt;/em&gt; to connect directly to any other node. This creates an extremely robust, fault-tolerant network. If any node is taken out of the mesh, the impact is minimal because not only are there built-in redundancies in link patterns (providing virtually infinite other routes to other nodes), but it is possible to establish a direct connection between any two nodes in the mesh.&lt;/p&gt;
 
@@ -573,20 +573,20 @@
 
 &lt;p&gt;In an increasingly interconnected world, building and supporting networks of many kinds is essential to success. It is important for strategists and leaders to consider the tradeoffs and implications in network design.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://aurastrategic.com/blog/three-kinds-networks/&quot;&gt;The Three Kinds of Networks (and Why They Matter)&lt;/a&gt; was originally published by Tim Jore at &lt;a href=&quot;http://aurastrategic.com&quot;&gt;Aura Strategic&lt;/a&gt; on November 05, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;https://aurastrategic.com/blog/three-kinds-networks/&quot;&gt;The Three Kinds of Networks (and Why They Matter)&lt;/a&gt; was originally published by Tim Jore at &lt;a href=&quot;https://aurastrategic.com&quot;&gt;Aura Strategic&lt;/a&gt; on November 05, 2015.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Amazing? Yes. A Cure-all? Probably Not.]]></title>
-  <link rel="alternate" type="text/html" href="http://aurastrategic.com/blog/amazing-yes-cure-all-probably-not/" />
-  <id>http://aurastrategic.com/blog/amazing-yes-cure-all-probably-not</id>
+  <link rel="alternate" type="text/html" href="https://aurastrategic.com/blog/amazing-yes-cure-all-probably-not/" />
+  <id>https://aurastrategic.com/blog/amazing-yes-cure-all-probably-not</id>
   <published>2015-10-22T00:00:00-04:00</published>
   <updated>2015-10-22T00:00:00-04:00</updated>
   <author>
     <name>Tim Jore</name>
-    <uri>http://aurastrategic.com</uri>
+    <uri>https://aurastrategic.com</uri>
     <email>timjore91@gmail.com</email>
   </author>
   <content type="html">
@@ -610,7 +610,7 @@
 
 &lt;p&gt;Second, &lt;strong&gt;blind ignorance created avoidable problems&lt;/strong&gt;. The perpetuation of the ignorant belief that penicillin was a cure-all led to the widespread over-the-counter availability of penicillin to anyone, for any reason. This irresponsible overuse, in turn, resulted in the emergence of penicillin-resistant strains of bacteria&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;, which greatly diminished its usefulness by making the drug less capable &lt;a href=&quot;#freeman-cook_staphylococcus_2006&quot;&gt;(Freeman-Cook, Freeman-Cook, Alcamo, &amp;amp; Heymann, 2006)&lt;/a&gt;. Failure to do the hard, tedious, time-consuming work of understanding what it was actually able to do (rather than what seemed possible in the emotionally-charged context of blind optimism) and the parameters and variables that affected it resulted in a highly undesirable outcome.&lt;/p&gt;
 
-&lt;p&gt;To put it another way: &lt;strong&gt;ignorance as to &lt;em&gt;why&lt;/em&gt; the results of &lt;a href=&quot;http://aurastrategic.com/blog/danger-small-numbers&quot;&gt;initial tests&lt;/a&gt; exceeded expectations does not prove that what brought about the results is a miracle.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;To put it another way: &lt;strong&gt;ignorance as to &lt;em&gt;why&lt;/em&gt; the results of &lt;a href=&quot;https://aurastrategic.com/blog/danger-small-numbers&quot;&gt;initial tests&lt;/a&gt; exceeded expectations does not prove that what brought about the results is a miracle.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -629,20 +629,20 @@
   &lt;/ol&gt;
 &lt;/div&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://aurastrategic.com/blog/amazing-yes-cure-all-probably-not/&quot;&gt;Amazing? Yes. A Cure-all? Probably Not.&lt;/a&gt; was originally published by Tim Jore at &lt;a href=&quot;http://aurastrategic.com&quot;&gt;Aura Strategic&lt;/a&gt; on October 22, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;https://aurastrategic.com/blog/amazing-yes-cure-all-probably-not/&quot;&gt;Amazing? Yes. A Cure-all? Probably Not.&lt;/a&gt; was originally published by Tim Jore at &lt;a href=&quot;https://aurastrategic.com&quot;&gt;Aura Strategic&lt;/a&gt; on October 22, 2015.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[The Alignment of the Church, Bible Translations, and Sound Doctrine]]></title>
-  <link rel="alternate" type="text/html" href="http://aurastrategic.com/blog/alignment-bible-translations-sound-doctrine/" />
-  <id>http://aurastrategic.com/blog/alignment-bible-translations-sound-doctrine</id>
+  <link rel="alternate" type="text/html" href="https://aurastrategic.com/blog/alignment-bible-translations-sound-doctrine/" />
+  <id>https://aurastrategic.com/blog/alignment-bible-translations-sound-doctrine</id>
   <published>2015-10-16T00:00:00-04:00</published>
   <updated>2015-10-16T00:00:00-04:00</updated>
   <author>
     <name>Tim Jore</name>
-    <uri>http://aurastrategic.com</uri>
+    <uri>https://aurastrategic.com</uri>
     <email>timjore91@gmail.com</email>
   </author>
   <content type="html">
@@ -701,20 +701,20 @@
   &lt;/ol&gt;
 &lt;/div&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://aurastrategic.com/blog/alignment-bible-translations-sound-doctrine/&quot;&gt;The Alignment of the Church, Bible Translations, and Sound Doctrine&lt;/a&gt; was originally published by Tim Jore at &lt;a href=&quot;http://aurastrategic.com&quot;&gt;Aura Strategic&lt;/a&gt; on October 16, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;https://aurastrategic.com/blog/alignment-bible-translations-sound-doctrine/&quot;&gt;The Alignment of the Church, Bible Translations, and Sound Doctrine&lt;/a&gt; was originally published by Tim Jore at &lt;a href=&quot;https://aurastrategic.com&quot;&gt;Aura Strategic&lt;/a&gt; on October 16, 2015.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[The Next One Will Be More Average]]></title>
-  <link rel="alternate" type="text/html" href="http://aurastrategic.com/blog/next-one-will-be-more-average/" />
-  <id>http://aurastrategic.com/blog/next-one-will-be-more-average</id>
+  <link rel="alternate" type="text/html" href="https://aurastrategic.com/blog/next-one-will-be-more-average/" />
+  <id>https://aurastrategic.com/blog/next-one-will-be-more-average</id>
   <published>2015-09-23T00:00:00-04:00</published>
   <updated>2015-09-23T00:00:00-04:00</updated>
   <author>
     <name>Tim Jore</name>
-    <uri>http://aurastrategic.com</uri>
+    <uri>https://aurastrategic.com</uri>
     <email>timjore91@gmail.com</email>
   </author>
   <content type="html">
@@ -732,7 +732,7 @@
 
 &lt;p&gt;This is a statement that is true over time, simply due to the inherent statistical probabilities of the possible outcomes. So it is important to avoid attaching “a causal interpretation to the inevitable fluctuations of a random process” &lt;a href=&quot;#kahneman_thinking_2013&quot;&gt;(Kahneman, 2013)&lt;/a&gt;. Your brilliant strategy, amazing engineering, and incredible marketing may have delivered a stunning result, but even so, you should expect that you merely achieved an outcome on the right of the normal distribution—not necessarily a new normal (see the chart below).&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://aurastrategic.com/images/blog/regression-mean/normal-distribution.png&quot; alt=&quot;Normal Distribution&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://aurastrategic.com/images/blog/regression-mean/normal-distribution.png&quot; alt=&quot;Normal Distribution&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The excitement of a highly favorable outcome early on may predispose you to overestimate your prediction of what this means for you (or your company, the industry, etc.) As Kahneman explains:&lt;/p&gt;
 
@@ -740,7 +740,7 @@
   &lt;p&gt;…it is natural for System 1 [the emotionally-driven part of our minds] to generate overconfident judgments, because confidence, as we have seen, is determined by the coherence of the best story you can tell from the evidence at hand. &lt;strong&gt;Be warned: your intuitions will deliver predictions that are too extreme and you will be inclined to put far too much faith in them.&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;The solution? &lt;a href=&quot;http://aurastrategic.com/blog/danger-small-numbers&quot;&gt;Larger sample sizes&lt;/a&gt; and brutal assessment of reality are good places to start.&lt;/p&gt;
+&lt;p&gt;The solution? &lt;a href=&quot;https://aurastrategic.com/blog/danger-small-numbers&quot;&gt;Larger sample sizes&lt;/a&gt; and brutal assessment of reality are good places to start.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;For more on this:&lt;/strong&gt;&lt;/p&gt;
 
@@ -753,20 +753,20 @@
 &lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;kahneman_thinking_2013&quot;&gt;Kahneman, D. (2013). &lt;i&gt;Thinking, Fast and Slow&lt;/i&gt;. New York: Farrar, Straus and Giroux.&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;http://aurastrategic.com/blog/next-one-will-be-more-average/&quot;&gt;The Next One Will Be More Average&lt;/a&gt; was originally published by Tim Jore at &lt;a href=&quot;http://aurastrategic.com&quot;&gt;Aura Strategic&lt;/a&gt; on September 23, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;https://aurastrategic.com/blog/next-one-will-be-more-average/&quot;&gt;The Next One Will Be More Average&lt;/a&gt; was originally published by Tim Jore at &lt;a href=&quot;https://aurastrategic.com&quot;&gt;Aura Strategic&lt;/a&gt; on September 23, 2015.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[How to Avoid Being Incompetent and Unaware of it]]></title>
-  <link rel="alternate" type="text/html" href="http://aurastrategic.com/blog/how-avoid-being-incompetent-unaware/" />
-  <id>http://aurastrategic.com/blog/how-avoid-being-incompetent-unaware</id>
+  <link rel="alternate" type="text/html" href="https://aurastrategic.com/blog/how-avoid-being-incompetent-unaware/" />
+  <id>https://aurastrategic.com/blog/how-avoid-being-incompetent-unaware</id>
   <published>2015-09-19T00:00:00-04:00</published>
   <updated>2015-09-19T00:00:00-04:00</updated>
   <author>
     <name>Tim Jore</name>
-    <uri>http://aurastrategic.com</uri>
+    <uri>https://aurastrategic.com</uri>
     <email>timjore91@gmail.com</email>
   </author>
   <content type="html">
@@ -800,7 +800,7 @@
 
 &lt;p&gt;Perhaps it should be, but it is fascinating to see how readily we tend to stagnate in a comfortable mix of some knowledge and plenty of assumption. Pushing through this stagnation by increasing knowledge and skill in applying it will enable us to recognize our own incompetence, and eventually overcome it. This diagram&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; may be helpful to illustrate the stages of knowledge:&lt;/p&gt;
 
-&lt;p class=&quot;shadow&quot;&gt;&lt;img src=&quot;http://aurastrategic.com/images/blog/incompetent/knowledge-expertise.png&quot; alt=&quot;Knowledge Expertise&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;shadow&quot;&gt;&lt;img src=&quot;https://aurastrategic.com/images/blog/incompetent/knowledge-expertise.png&quot; alt=&quot;Knowledge Expertise&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;There are some important principles that can be applied to minimize the likelihood of winding up in the “blissfully ignorant” category:&lt;/p&gt;
 
@@ -832,20 +832,20 @@
   &lt;/ol&gt;
 &lt;/div&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://aurastrategic.com/blog/how-avoid-being-incompetent-unaware/&quot;&gt;How to Avoid Being Incompetent and Unaware of it&lt;/a&gt; was originally published by Tim Jore at &lt;a href=&quot;http://aurastrategic.com&quot;&gt;Aura Strategic&lt;/a&gt; on September 19, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;https://aurastrategic.com/blog/how-avoid-being-incompetent-unaware/&quot;&gt;How to Avoid Being Incompetent and Unaware of it&lt;/a&gt; was originally published by Tim Jore at &lt;a href=&quot;https://aurastrategic.com&quot;&gt;Aura Strategic&lt;/a&gt; on September 19, 2015.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[How to Extract Kindle Highlights]]></title>
-  <link rel="alternate" type="text/html" href="http://aurastrategic.com/blog/how-extract-kindle-highlights/" />
-  <id>http://aurastrategic.com/blog/how-extract-kindle-highlights</id>
+  <link rel="alternate" type="text/html" href="https://aurastrategic.com/blog/how-extract-kindle-highlights/" />
+  <id>https://aurastrategic.com/blog/how-extract-kindle-highlights</id>
   <published>2015-09-15T00:00:00-04:00</published>
   <updated>2015-09-15T00:00:00-04:00</updated>
   <author>
     <name>Tim Jore</name>
-    <uri>http://aurastrategic.com</uri>
+    <uri>https://aurastrategic.com</uri>
     <email>timjore91@gmail.com</email>
   </author>
   <content type="html">
@@ -859,13 +859,13 @@
 
 &lt;p&gt;It may be easiest to search for it, then click the link that tells you how many highlights you have.&lt;/p&gt;
 
-&lt;p class=&quot;shadow&quot;&gt;&lt;img src=&quot;http://aurastrategic.com/images/blog/kindle-highlights/kindle-highlights-1.jpg&quot; alt=&quot;Locate the book&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;shadow&quot;&gt;&lt;img src=&quot;https://aurastrategic.com/images/blog/kindle-highlights/kindle-highlights-1.jpg&quot; alt=&quot;Locate the book&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;3-copy-all-the-highlights&quot;&gt;3. Copy all the highlights&lt;/h2&gt;
 
 &lt;p&gt;Select all the highlights for the book and copy them to your clipboard.&lt;/p&gt;
 
-&lt;p class=&quot;shadow&quot;&gt;&lt;img src=&quot;http://aurastrategic.com/images/blog/kindle-highlights/kindle-highlights-2.jpg&quot; alt=&quot;Copy the highlights&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;shadow&quot;&gt;&lt;img src=&quot;https://aurastrategic.com/images/blog/kindle-highlights/kindle-highlights-2.jpg&quot; alt=&quot;Copy the highlights&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Note: if you are an Evernote user, you may find it easiest to use the &lt;strong&gt;&lt;a href=&quot;https://evernote.com/webclipper/&quot; title=&quot;Evernote web clipper&quot;&gt;Evernote web clipper&lt;/a&gt;&lt;/strong&gt; and clip the selected text into a new note. I use an intermediate step to clean things up a bit before archiving in Evernote (see next step).&lt;/em&gt;&lt;/p&gt;
 
@@ -881,11 +881,11 @@
   &lt;li&gt;Find &lt;code&gt;Add a note&lt;/code&gt; and replace with “”.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p class=&quot;shadow&quot;&gt;&lt;img src=&quot;http://aurastrategic.com/images/blog/kindle-highlights/kindle-highlights-3.jpg&quot; alt=&quot;Replace text&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;shadow&quot;&gt;&lt;img src=&quot;https://aurastrategic.com/images/blog/kindle-highlights/kindle-highlights-3.jpg&quot; alt=&quot;Replace text&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Now your highlights should look like this:&lt;/p&gt;
 
-&lt;p class=&quot;shadow&quot;&gt;&lt;img src=&quot;http://aurastrategic.com/images/blog/kindle-highlights/kindle-highlights-4.jpg&quot; alt=&quot;Plain text&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;shadow&quot;&gt;&lt;img src=&quot;https://aurastrategic.com/images/blog/kindle-highlights/kindle-highlights-4.jpg&quot; alt=&quot;Plain text&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Select all the text in the text editor, copy it, and paste the notes and highlights into Evernote or a document. This provides unformatted notes with the Kindle location number so you can reference it again if needed.&lt;/p&gt;
 
@@ -901,20 +901,20 @@
   &lt;/ol&gt;
 &lt;/div&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://aurastrategic.com/blog/how-extract-kindle-highlights/&quot;&gt;How to Extract Kindle Highlights&lt;/a&gt; was originally published by Tim Jore at &lt;a href=&quot;http://aurastrategic.com&quot;&gt;Aura Strategic&lt;/a&gt; on September 15, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;https://aurastrategic.com/blog/how-extract-kindle-highlights/&quot;&gt;How to Extract Kindle Highlights&lt;/a&gt; was originally published by Tim Jore at &lt;a href=&quot;https://aurastrategic.com&quot;&gt;Aura Strategic&lt;/a&gt; on September 15, 2015.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Why Complex Networks Form]]></title>
-  <link rel="alternate" type="text/html" href="http://aurastrategic.com/blog/networks-scale/" />
-  <id>http://aurastrategic.com/blog/networks-scale</id>
+  <link rel="alternate" type="text/html" href="https://aurastrategic.com/blog/networks-scale/" />
+  <id>https://aurastrategic.com/blog/networks-scale</id>
   <published>2015-09-13T00:00:00-04:00</published>
   <updated>2015-09-13T00:00:00-04:00</updated>
   <author>
     <name>Tim Jore</name>
-    <uri>http://aurastrategic.com</uri>
+    <uri>https://aurastrategic.com</uri>
     <email>timjore91@gmail.com</email>
   </author>
   <content type="html">
@@ -928,17 +928,17 @@
 
 &lt;p&gt;This progression can be visualized like this:&lt;/p&gt;
 
-&lt;p class=&quot;shadow&quot;&gt;&lt;img src=&quot;http://aurastrategic.com/images/blog/networks-scale/networks-scale.001.jpg&quot; alt=&quot;Nodes and Links&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;shadow&quot;&gt;&lt;img src=&quot;https://aurastrategic.com/images/blog/networks-scale/networks-scale.001.jpg&quot; alt=&quot;Nodes and Links&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;As the team size continues to increase in a linear manner, the complexity of the network increases exponentially:&lt;/p&gt;
 
-&lt;p class=&quot;shadow&quot;&gt;&lt;img src=&quot;http://aurastrategic.com/images/blog/networks-scale/networks-scale.002.jpg&quot; alt=&quot;Nodes and Links&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;shadow&quot;&gt;&lt;img src=&quot;https://aurastrategic.com/images/blog/networks-scale/networks-scale.002.jpg&quot; alt=&quot;Nodes and Links&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;If the growth rate of a team is left unchecked, the efficiency of the team will eventually decline. The management of the growing number of relationships, combined with communication breakdowns and everything else that happens in a team will begin to erode the effectiveness of the team.&lt;/p&gt;
 
 &lt;p&gt;One solution to the problem is the formation of complex networks, or “networks of networks” where team size remains manageable and decentralized teams are able to work together. In this kind of “team of teams” arrangement &lt;a href=&quot;#mcchrystal_team_2015&quot;&gt;(McChrystal, Collins, Silverman, &amp;amp; Fussell, 2015)&lt;/a&gt;, smaller teams can work together as part of a larger team with effectiveness that scales far better than one large team.&lt;/p&gt;
 
-&lt;p class=&quot;shadow&quot;&gt;&lt;img src=&quot;http://aurastrategic.com/images/blog/networks-scale/networks-scale.003.jpg&quot; alt=&quot;Nodes and Links&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;shadow&quot;&gt;&lt;img src=&quot;https://aurastrategic.com/images/blog/networks-scale/networks-scale.003.jpg&quot; alt=&quot;Nodes and Links&quot; /&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -946,20 +946,20 @@
 
 &lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;mcchrystal_team_2015&quot;&gt;McChrystal, G. S., Collins, T., Silverman, D., &amp;amp; Fussell, C. (2015). &lt;i&gt;Team of Teams: New Rules of Engagement for a Complex World&lt;/i&gt;. New York, New York: Portfolio. Retrieved from http://amzn.to/1rsGfmp&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://aurastrategic.com/blog/networks-scale/&quot;&gt;Why Complex Networks Form&lt;/a&gt; was originally published by Tim Jore at &lt;a href=&quot;http://aurastrategic.com&quot;&gt;Aura Strategic&lt;/a&gt; on September 13, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;https://aurastrategic.com/blog/networks-scale/&quot;&gt;Why Complex Networks Form&lt;/a&gt; was originally published by Tim Jore at &lt;a href=&quot;https://aurastrategic.com&quot;&gt;Aura Strategic&lt;/a&gt; on September 13, 2015.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[It Shall Not Be So Among You]]></title>
-  <link rel="alternate" type="text/html" href="http://aurastrategic.com/blog/shall-not-be-so-among-you/" />
-  <id>http://aurastrategic.com/blog/shall-not-be-so-among-you</id>
+  <link rel="alternate" type="text/html" href="https://aurastrategic.com/blog/shall-not-be-so-among-you/" />
+  <id>https://aurastrategic.com/blog/shall-not-be-so-among-you</id>
   <published>2015-08-21T00:00:00-04:00</published>
   <updated>2015-08-21T00:00:00-04:00</updated>
   <author>
     <name>Tim Jore</name>
-    <uri>http://aurastrategic.com</uri>
+    <uri>https://aurastrategic.com</uri>
     <email>timjore91@gmail.com</email>
   </author>
   <content type="html">
@@ -1057,7 +1057,7 @@ and to give his life as a ransom for many.” –Matthew 20:26-28&lt;/p&gt;
 &lt;li&gt;&lt;span id=&quot;pink_whole_2006&quot;&gt;Pink, D. H. (2006). &lt;i&gt;A Whole New Mind: Why Right-Brainers Will Rule the Future&lt;/i&gt; (Rep Upd edition). Riverhead Books.&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;http://aurastrategic.com/blog/shall-not-be-so-among-you/&quot;&gt;It Shall Not Be So Among You&lt;/a&gt; was originally published by Tim Jore at &lt;a href=&quot;http://aurastrategic.com&quot;&gt;Aura Strategic&lt;/a&gt; on August 21, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;https://aurastrategic.com/blog/shall-not-be-so-among-you/&quot;&gt;It Shall Not Be So Among You&lt;/a&gt; was originally published by Tim Jore at &lt;a href=&quot;https://aurastrategic.com&quot;&gt;Aura Strategic&lt;/a&gt; on August 21, 2015.&lt;/p&gt;
   </content>
 </entry>
 
