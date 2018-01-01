@@ -224,14 +224,6 @@
 
   
     ,{
-      "title"			: "Books, etc.",
-      "link"			: "https://aurastrategic.com/books/",
-      "excerpt"		: "Books, whitepapers, articles, and presentations by Tim Jore."
-    }
-  
-
-  
-    ,{
       "title"			: "Contact",
       "link"			: "https://aurastrategic.com/contact/",
       "excerpt"		: "Contact Tim Jore"
@@ -246,9 +238,9 @@
 
   
     ,{
-      "title"			: "Reading List",
+      "title"			: "Reading",
       "link"			: "https://aurastrategic.com/reading/",
-      "excerpt"		: "Books I Recommend"
+      "excerpt"		: "Books, articles, papers"
     }
   
 
@@ -266,6 +258,14 @@
     }
   
 
+  
+
+  
+    ,{
+      "title"			: "Writing",
+      "link"			: "https://aurastrategic.com/writing/",
+      "excerpt"		: "Books, whitepapers, articles, and presentations."
+    }
   
 
 ]

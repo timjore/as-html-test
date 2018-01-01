@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="https://aurastrategic.com/feed.xml" />
 <link rel="alternate" type="text/html" href="https://aurastrategic.com" />
-<updated>2017-12-30T17:19:28-05:00</updated>
+<updated>2018-01-01T07:22:50-05:00</updated>
 <id>https://aurastrategic.com/</id>
 <author>
   <name>Tim Jore</name>
@@ -52,7 +52,7 @@
   &lt;p&gt;“You must all be quick to listen, slow to speak, and slow to get angry. Human anger does not produce the righteousness God desires” (James 1:19–20 NLT).&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Listen well and make allowance for the other’s faults:&lt;/p&gt;
+&lt;p&gt;Listen well and assume the other person will fail you (so that you are not surprised by it when they do):&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;“Make allowance for each other’s faults, and forgive anyone who offends you. Remember, the Lord forgave you, so you must forgive others. Above all, clothe yourselves with love, which binds us all together in perfect harmony. And let the peace that comes from Christ rule in your hearts. For as members of one body you are called to live in peace. And always be thankful” (Colossians 3:13–15 NLT).&lt;/p&gt;
@@ -958,15 +958,18 @@
   <title type="html"><![CDATA[How to Extract Kindle Highlights]]></title>
   <link rel="alternate" type="text/html" href="https://aurastrategic.com/blog/how-extract-kindle-highlights/" />
   <id>https://aurastrategic.com/blog/how-extract-kindle-highlights</id>
+  <updated>2018-01-01T00:00:00-00:00</updated>
   <published>2015-09-15T00:00:00-04:00</published>
-  <updated>2015-09-15T00:00:00-04:00</updated>
+  
   <author>
     <name>Tim Jore</name>
     <uri>https://aurastrategic.com</uri>
     <email>timjore91@gmail.com</email>
   </author>
   <content type="html">
-    &lt;p&gt;When I read ebooks (usually from the Amazon Kindle store), I highlight large amounts of text. Rather than simply highlight a phrase here or there, I intentionally highlight enough of the text so that the highlights create &lt;strong&gt;a condensed version of the essential aspects of the entire book&lt;/strong&gt;. It takes a little more time to get through the book, but I consider the value in increased retention of the content (and the ability to review over time) to more than make up for it. And Kindle makes extracting highlights easy. Here’s how:&lt;/p&gt;
+    &lt;p&gt;&lt;em&gt;Update: Amazon has changed the online location of the highlights in your Kindle library and (thankfully!) made it easier to copy-and-paste them: &lt;a href=&quot;https://read.amazon.com/notebook&quot;&gt;read.amazon.com/notebook&lt;/a&gt;. Most of the steps below are identical, or require self-evident adjustment.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;When I read ebooks (usually from the Amazon Kindle store), I highlight large amounts of text. Rather than simply highlight a phrase here or there, I intentionally highlight enough of the text so that the highlights create &lt;strong&gt;a condensed version of the essential aspects of the entire book&lt;/strong&gt;. It takes a little more time to get through the book, but I consider the value in increased retention of the content (and the ability to review over time) to more than make up for it. And Kindle makes extracting highlights easy. Here’s how:&lt;/p&gt;
 
 &lt;h2 id=&quot;1-browse-to-the-online-kindle-web-app&quot;&gt;1. Browse to the online Kindle web app&lt;/h2&gt;
 
