@@ -214,6 +214,14 @@
 
   
     ,{
+      "title"			: "Reading Archives",
+      "link"			: "https://aurastrategic.com/reading/archives/",
+      "excerpt"		: "Books and articles from previous years"
+    }
+  
+
+  
+    ,{
       "title"			: "Bibliography",
       "link"			: "https://aurastrategic.com/bibliography/",
       "excerpt"		: "Reading list and citations"
